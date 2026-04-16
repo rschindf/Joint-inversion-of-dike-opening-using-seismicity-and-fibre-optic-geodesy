@@ -6,5 +6,5 @@ This repository contains:
 - The PDF of the thesis [MS_thesis_Schindfessel.pdf](MS_thesis_Schindfessel.pdf)
 - A folder with all the codes used in the thesis: [Codes](Codes/). Coding was carried out with MATLAB R2023a.
 - A folder with the figures shown in the thesis: [Figures](Figures/).
-- A folder with the movies of the different models: [Figures](Figures/). They are named following a simple structure: First the event number (E1, E2, ...), followed by the datasets used for the inversion. 
+- A folder with the movies of the different models: [Movies](Movies/). They are named following a simple structure: First the event number (E1, E2, ...), followed by the datasets used for the inversion. 
 
